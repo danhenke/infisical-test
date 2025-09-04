@@ -1,6 +1,6 @@
 # Infisical Test
 
-Super basic test of retrieving a secret via the Infisical GO SDK.
+Super basic test of retrieving a secret via the [Infisical](https://infisical.com) GO SDK.
 
 ```
 export CLIENT_ID="..."
